@@ -1,3 +1,108 @@
+#form {
+  border: 2px solid rgb(221, 219, 219);
+  background-color: rgb(234, 235, 225);
+  border-radius: 20px;
+  padding: 35px;
+  width: 30%;
+  margin: 30px;
+}
+#form input {
+ height: 4vh;
+ border: 1px solid grey;
+ margin: 7px;
+ border-radius: 10px;
+}
+#form input h1 {
+  color: azure;
+}
+#form button {
+  margin-left: 120px;
+  padding: 7px 20px;
+  background-color: rgba(18, 108, 242, 0.557);
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+.items {
+  border: 2px solid rgba(4, 80, 193, 0.833);
+  margin: 30px;
+  padding: 20px;
+  width: 30%;
+}
+.items h3{
+  font-size: 16px;
+  font-family: monospace;
+}
+
+h1{
+  font-style: italic;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
